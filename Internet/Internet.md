@@ -45,6 +45,7 @@ A **router** is like a **bus stop** that guides data to its destination.
 
 
 
+
 ---
 
 # 🌐 What is HTTP?
@@ -66,6 +67,23 @@ A **router** is like a **bus stop** that guides data to its destination.
 - This allows your browser to **find the correct server**.
 
 ---
+# 🧭 What is a Browser?
+
+A **web browser** is software used to access and view websites. It converts HTML, CSS, and JavaScript into interactive web pages.
+
+### 🔹 How Does a Browser Work?
+
+1. **User Interface (UI)**: Displays the web page and includes address bar, buttons, etc.
+2. **Browser Engine**: Connects the UI with the Rendering Engine and manages actions.
+3. **Rendering Engine**: Parses HTML, CSS and renders the content visually.
+4. **JavaScript Interpreter**: Executes JavaScript code on the web page.
+5. **Networking**: Handles HTTP requests and responses.
+6. **UI Backend**: Renders components like checkboxes and dropdowns using system libraries.
+7. **Data Persistence**: Stores cookies, local storage, session storage, etc.
+
+### 🔧 Browser Internal Architecture
+
+![Browser Architecture](./6feb4884-c509-4a6d-878b-7db33b581d0b.png)
 
     
 
