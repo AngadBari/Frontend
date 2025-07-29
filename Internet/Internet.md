@@ -83,7 +83,7 @@ A **web browser** is software used to access and view websites. It converts HTML
 
 ### 🔧 Browser Internal Architecture
 
-![Browser Architecture](./6feb4884-c509-4a6d-878b-7db33b581d0b.png)
+<img src="BrowserWorks.avif" style="width:500px;height:500px">
 
     
 
