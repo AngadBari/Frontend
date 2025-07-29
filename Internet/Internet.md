@@ -24,7 +24,7 @@ An **IP address** is like a unique home address for each device on the internet.
 
 - It helps devices find and communicate with each other.
 
-<img src="./Image/IP.jpg" alt="IP" style="width:500px;height:300px">
+
 
 
 ---
@@ -43,7 +43,7 @@ A **router** is like a **bus stop** that guides data to its destination.
 4. ... until it reaches the **Server**  
 5. Response from Server → Same process back to the **Client**
 
-<img src="./Image/Roter.webp" alt="IP" style="width:500px;height:300px">
+
 
 ---
 
