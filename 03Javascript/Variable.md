@@ -70,3 +70,20 @@ Variables declared with let or const inside {} (such as in if, for, or while blo
 📁 Check: .`/03BlockScope/`
 
 ----
+
+###  DataTypes:
+
+## 1.Primative       
+                    
+1. **Number**              
+2. **String**
+3. **Boolean**
+4. **Null**
+5. **BigInt**
+6. **Undefine**
+7. **Symbol**
+
+ ## 2.Non-Primative
+  1.**Object**
+
+  📁 Check: .`/03DataTypes/`
