@@ -5,7 +5,7 @@
 
 //Seven primitive data types:
 
-// 1.number for numbers of any kind: integer or floating-point, integers are limited by ±(2^53-1).
+// 1.number for numbers of any kind: integer or floating-point, integers are limited by ±   (2^53-1).
 // 2.bigint for integer numbers of arbitrary length.
 // 3.string for strings. A string may have zero or more characters, there’s no separate single-character type.
 // 4.boolean for true/false.
