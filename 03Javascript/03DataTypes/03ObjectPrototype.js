@@ -89,3 +89,7 @@
              // myHero.myArray()
 
              // HeroPower.myArray()//It give Error becaue we define only prop to array only..
+
+
+
+//Prototype Inheritances
